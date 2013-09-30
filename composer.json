@@ -1,5 +1,5 @@
 {
-  "name": "europaphp/response",
+  "name": "europaphp/component-response",
   "description": "EuropaPHP response component.",
   "keywords": ["mvc", "view", "controller", "fast", "scalable", "simple", "module", "modular"],
   "license": "MIT",
